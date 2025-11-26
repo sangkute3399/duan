@@ -7,5 +7,6 @@
 <body>
     <h1>Xin chào Ubuntu 24.04 LTS!</h1>
     <p>Code này đang chạy trên XAMPP Linux.</p>
+    <p>Chao em nha</p>
 </body>
 </html>
